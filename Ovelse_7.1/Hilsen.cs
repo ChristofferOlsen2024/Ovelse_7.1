@@ -10,7 +10,7 @@ namespace Ovelse_7._1
     {
         public void SigHej()
         {
-            Console.WriteLine("He Verden");
+            Console.WriteLine("Hej Verden");
         }
     }
 }

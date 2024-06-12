@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Worl1d!");
+﻿using Ovelse_7._1;
+
+Hilsen minHilsen = new();
+
+minHilsen.SigHej();
