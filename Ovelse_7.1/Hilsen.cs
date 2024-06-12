@@ -9,8 +9,8 @@ namespace Ovelse_7._1
     internal class Hilsen
     {
         public void SigHej()
-        { 
-            
+        {
+            Console.WriteLine("He Verden");
         }
     }
 }
